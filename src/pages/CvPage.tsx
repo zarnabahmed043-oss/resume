@@ -3,24 +3,24 @@ import { ArrowLeft, Briefcase, GraduationCap, Code2, Mail, Phone, MapPin, Globe,
 import ScrollReveal from "@/components/ScrollReveal";
 
 const personalInfo = {
-  name: "Zarnab",
+  name: "Zarmeen Ahmed",
   title: "WordPress & WooCommerce Developer",
-  email: "contact@zarnab.dev",
+  email: "Zarnabahmed@gmail.com",
   phone: "+92 300 1234567",
   location: "Pakistan",
   website: "www.zarnab.dev",
 };
 
 const experienceData = [
-  { year: "2022 - Present", role: "Senior WordPress Developer", company: "Freelance", description: "Building custom themes, plugins & WooCommerce stores for international clients." },
-  { year: "2021 - 2022", role: "Frontend Developer", company: "Digital Agency", description: "Developed responsive websites using HTML, CSS, Bootstrap & WordPress." },
-  { year: "2020 - 2021", role: "Junior Web Developer", company: "Starter Studio", description: "Worked on client websites, landing pages, and e-commerce solutions." },
+  { year: "2026 - Present", role: "Senior WordPress Developer", company: "DIONE", description: "Building custom themes, plugins & WooCommerce stores for international clients." },
+  { year: "2026", role: "Frontend Developer", company: "DIONE", description: "Developed responsive websites using HTML, CSS, Bootstrap & WordPress." },
+  { year: "2026", role: "Junior Web Developer", company: "DIONE", description: "Worked on client websites, landing pages, and e-commerce solutions." },
 ];
 
 const educationData = [
-  { degree: "BS Computer Science", institution: "University of Technology", grade: "3.5 GPA" },
-  { degree: "WordPress Development", institution: "Udemy Certification", grade: "Certified" },
-  { degree: "WooCommerce Mastery", institution: "Coursera", grade: "Certified" },
+  { degree: "BS Information Technology", institution: "Virtual University" },
+  { degree: "Graphic Design", institution: "Globle", grade: "Certified" },
+  { degree: "WooCommerce Mastery", institution: "DIONE Software House", grade: "Certified" },
 ];
 
 const skillsData = [
