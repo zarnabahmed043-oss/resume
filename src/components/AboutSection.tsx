@@ -4,7 +4,7 @@ import ScrollReveal from "./ScrollReveal";
 
 const experienceData = [
   { year: "2026 - Present", role: "Junior WordPress Developer", company: "DIONE", location: "on-site", description: "Building custom themes, plugins & WooCommerce stores for international clients." },
-  { year: "2026 - Present", role: "Frontend Developer", company: "DIONE", location: "PK", description: "Developed responsive websites using HTML, CSS, Bootstrap & WordPress." },
+  { year: "2026", role: "Frontend Developer", company: "DIONE", location: "PK", description: "Developed responsive websites using HTML, CSS, Bootstrap & WordPress." },
   { year: "2026", role: "Junior Web Developer", company: "DIONE", location: "PK", description: "Worked on client websites, landing pages, and e-commerce solutions." },
 ];
 
