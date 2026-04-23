@@ -6,7 +6,7 @@ const personalInfo = {
   name: "Zarmeen Ahmed",
   title: "WordPress & WooCommerce Developer",
   email: "Zarnabahmed@gmail.com",
-  phone: "+92 3115021123",
+  phone: "+92 3115558945",
   location: "Pakistan",
   website: "zarmeen.vercel.app",
 };
