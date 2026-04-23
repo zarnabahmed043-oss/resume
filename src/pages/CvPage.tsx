@@ -8,7 +8,7 @@ const personalInfo = {
   email: "Zarnabahmed@gmail.com",
   phone: "+92 3155558945",
   location: "Pakistan",
-  website: "zarmeen.dev",
+  website: "zarmeen.vercel.app",
 };
 
 const experienceData = [
