@@ -19,7 +19,7 @@ const experienceData = [
 
 const educationData = [
   { degree: "BS Information Technology", institution: "Virtual University" },
-  { degree: "Graphic Designgit add .", institution: "Globle", grade: "Certified" },
+  { degree: "Graphic Designing", institution: "Globle", grade: "Certified" },
   { degree: "WooCommerce Mastery", institution: "DIONE Software House", grade: "Certified" },
 ];
 
