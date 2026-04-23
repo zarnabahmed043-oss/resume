@@ -6,9 +6,9 @@ const personalInfo = {
   name: "Zarmeen Ahmed",
   title: "WordPress & WooCommerce Developer",
   email: "Zarnabahmed@gmail.com",
-  phone: "+92 300 1234567",
+  phone: "+92 3155558945",
   location: "Pakistan",
-  website: "www.zarnab.dev",
+  website: "zarmeen.dev",
 };
 
 const experienceData = [
@@ -19,7 +19,7 @@ const experienceData = [
 
 const educationData = [
   { degree: "BS Information Technology", institution: "Virtual University" },
-  { degree: "Graphic Design", institution: "Globle", grade: "Certified" },
+  { degree: "Graphic Designgit add .", institution: "Globle", grade: "Certified" },
   { degree: "WooCommerce Mastery", institution: "DIONE Software House", grade: "Certified" },
 ];
 
